@@ -1,59 +1,23 @@
-%!TEX TS-program = xelatex 
-%!TEX encoding = UTF-8 Unicode
+%!TEX TS-program = pdflatex 
 \documentclass[12pt]{article} 
 
 % Definitions
-\newcommand\mykeywords{color, selectionism, Shoemaker} 
 \newcommand\myauthor{Mark Eli Kalderon} 
 \newcommand\mytitle{The Multiply Qualitative}
 
 % Packages
-\usepackage{geometry} \geometry{a4paper} 
-\usepackage{pdfsync} 
-\usepackage{url} 
-\usepackage{txfonts}
-\usepackage{color}
-\definecolor{gray}{rgb}{0.459,0.438,0.471}
 \usepackage{epigraph}
-
-% XeTeX
-\usepackage[cm-default]{fontspec}
-\usepackage{xltxtra,xunicode}
-\defaultfontfeatures{Scale=MatchLowercase,Mapping=tex-text}
-\setmainfont{Hoefler Text}
-\setsansfont{Gill Sans}
-\setmonofont{Inconsolata}
 
 % Bibliography
 \usepackage[round]{natbib}
 
-% Version Control Information
-\immediate\write18{sh ./vc}
-\input{vc}
-
-% Section formatting
-\usepackage[]{titlesec} 
-\titleformat{\section}[hang]{\fontsize{14}{14}\scshape}{\S\,{\thesection}}{.5em}{}{}
-
-% Headers
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\pagenumbering{arabic}
-\lhead{\thepage}
-\chead{}
-\rhead{\itshape{\nouppercase{\leftmark}}}
-\lfoot{\tiny{Revision: \VCRevision}}
-\cfoot{\tiny{Author: \VCAuthor}}
-\rfoot{\tiny{Date: \VCDateISO}}
-
 % Title Information
-\title{\mytitle\thanks{Thanks to Keith Allen, David R. Hilbert, Carrie Jenkins, Guy Longworth, MGF Martin, Daniel Nolan, Sydney Shoemaker, Maja Spener, Scott Sturgeon, and Charles Travis for their help and encouragement. Thanks also to audiences at Birkbeck College and the University of Nottingham where a version of this material was presented.}} 
+\title{\mytitle}
+% \thanks{Thanks to Keith Allen, David R. Hilbert, Carrie Jenkins, Guy Longworth, MGF Martin, Daniel Nolan, Sydney Shoemaker, Maja Spener, Scott Sturgeon, and Charles Travis for their help and encouragement. Thanks also to audiences at Birkbeck College and the University of Nottingham where a version of this material was presented.} 
 
-\author{\myauthor}
+\author{}
+% \myauthor
 % \date{}
-
-% PDF Stuff
-\usepackage[plainpages=false, pdfpagelabels, bookmarksnumbered, backref, pdftitle={\mytitle}, pagebackref, pdfauthor={\myauthor}, pdfkeywords={\mykeywords}, xetex, colorlinks=true, citecolor=gray, linkcolor=gray, urlcolor=gray]{hyperref} 
 
 %%% BEGIN DOCUMENT
 \begin{document}
