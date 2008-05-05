@@ -231,3 +231,56 @@ Thanks again for the extensive comments. That was very kind of you.
 Hope you are well.
 
 All the best, Mark
+
+# Hilbert Correspondence
+
+Mark,
+
+I can't remember if I thanked you properly after the London trip but it was fun and productive. I've written a paper based on the talk I gave at the conference which will be published in Philosophical Topics.  I've attached a copy. I just returned from a trip east where, among other things, I spent some time with Alex talking about color blindness. We owe a paper to a festchrift for Larry Hardin and the plan is to produce a discussion of what the color experience of dichromats is like.  As you know I've been thinking about this issue for some time without managing to reach any very satisfactory conclusion.  I think I now have a better understanding of some of the difficult issues and I also think there is some relevance to the problem you are concerned with. 
+
+First, a minor and largely irrelevant quibble.  I don't like the example.[^fn1] The perceived color of bodies of water is heavily influenced by the reflection of the sky from the surface of the water.  In an actual case, the water would likely look different to the two because variability in cloud cover leading to differences in the light reflected from the sky to their respective viewing positions.  My own view is that the perceived color of bodies of water is rarely veridical because of this effect. (According to me water is actually a very faint blue in color, a color which is only seen in fairly unusual circumstances, like when viewing large quantities of ice. None of this matters to your problem since it is easy enough to construct cases in which Edgar and Bernice disagree because of some difference in their visual systems.  This kind of case is the one that comes up in thinking about the color blind.  As you know, Alex and I maintain that for normal perceivers, it can't be the case that both perceptions are veridical since, according to us, their contents are incompatible.  I'll ignore that idiosyncrasy in what follows.  As you will see, issues about the constitution relation are, I think, unavoidable. 
+
+The best solution, I think, is to take the first horn of the dilemma.  Edgar and Bernice veridically perceive distinct colors.  It will be easiest for me to explain this in terms of reflectance physicalism and then I will comment on what I don't understand in  attempting to translate it into your terms.  Edgar sees the object as possessing a (determinate) reflectance that is of type R1.  Bernice sees it as possessing a reflectance that is of type R2.  In order for both perceptions to be veridical R1 and R2 cannot be disjoint, i.e. some reflectances are of both types. In order for them to be different some reflectances must be of one type but not the other. But this is perfectly possible.[^fn2] It might be that R1 and R2 overlap without either wholly containing the other.  This kind of case is probably the one you have in mind.  It might be that everything that is of type R1 is of type R2, or vice versa (but not both).  This is the kind of case that arises in thinking about color blindness.  None of this directly addresses your worry since nothing has yet been said about causation.  The causal relations are as follows.  The determinate reflectance is causally responsible for both Edgar's perception of the object as grey and Bernice's perception of the object as green.  The objects having a reflectance of type R1 causes Edgars perception of grey and the object's having a reflectance of type R2 causes Bernice's perception of green.  The worry you express in the first horn of the dilemma doesn't arise since the only common causal factor is the determinate reflectance which is not a visible color.  The worry you raise is avoided because there are multiple "light-dispositional" properties in play. As far as I can see there is nothing here that is incompatible with the basic idea of selectionism.  This is the kind of thing I had in mind when I said that partiality helps.  Edgar and Bernice are, in effect, perceiving different aspects of the determinate reflectance.  If I've missed something here let me know. 
+
+Here are the problems I see with this attempt to defuse your dilemma.  First, it makes the description of the original example slightly misleading.  The description of Edgar as seeing it as grey and Bernice as seeing it as green suggests that Bernice might have seen it as having the very same color as Edgar sees it as having and vice versa.  This suggestion is contradicted by my analysis.  Making some other plausible assumptions, Bernice never sees anything as having R1 and Bernice never sees anything as having R2.  I don't see this as a big problem but it would be nice to work out some way in which there is some similarity in their experience when they are both seeing something as greenish that is compatible with their visually determinate color categories being different.  Alex and I have things to say about this problem in the case of the color blind but what we have to say relies on the relation between the types being one of inclusion which doesn't apply here. 
+
+You mention causal exclusion and this can raise another worry.  Someone might worry that the fact that the determinate reflectance causally explains the experience excludes the reflectance type from also causally explaining the experience.  I take it that the determinate reflectance does not constitute the visible color (is that right?) so that reason for ruling out the exclusion does not apply.  I think your selectionist account already faced this problem so it's not specific to the particular case under discussion.  Here is where I'm not entirely clear what the exact relation is between your light-dispositional properties and the relation of constitution and my reflectance types and the relation of identity.  Assuming that reflectance types are light-dispositional properties (there may be other l-d properties) then there are many light-dispositional properties possessed by any given object.  If the determinate light-dispositional properties are not the constituting properties then the possibility of causal exclusion of the colors (and their contituting properties) would seem to arise. If the determinate light-dispositional properties are the constituting properties then the visible colors are multiply constituted, i.e. a number of different light-dispositional properties constitute the same color.  Here's one place where my grasp of the notion of constitution is weak.  Does it make sense to talk of a property being multiply constituted?  If a property can be multiply constituted, then your claim that a constituting property can't causally exclude the constituted property seems less plausible.  After all the different constituters differ in their causal powers so their must be differences between the causal powers of the constituters and the property they collectively constitute.  (If this last bit is gibberish feel free to ignore it.)  So the problem of causal exclusion already faces your account.  My own view is that determinates do not automatically causally exclude the determinables under which they fall.  (In fact I sometimes seriously consider the more radical view that the determinable can causally explain and it's the determinate that lacks causal relevance.) 
+
+I've gone on long enough.  Let me know if there's anything helpful in the above mess or let me know where I've gone wrong.
+
+--Dave
+
+Dear Dave,
+
+It was great seeing you in London as well. We hope to see you pass through more often.
+
+Thanks for the paper. I will definitely be reading it soon.
+
+Thanks as well, for your generous response. I agree with most of it. I too had problems with Mark's example but, for now, I am more interested in its abstract structure. A structure that I imperfectly described, unfortunately. I did not mean to describe a case where distinct reflectance types are co-realized by a determinate reflectance. Rather, the case is meant to be one where the perceivers select the same reflectance type to be a color in distinct families of color properties. The former type of case is, I believe, not only possible, but probably actual. (Forget about my views about intraspecies variation, think of interspecies variation. Something might be visible to bees and humans partly by virtue of their tracking distinct reflectance types co-instantiated by that thing.) The latter type of case is improbable, but seems at least logically possible given selectionism.
+
+Maybe it isn't in fact logically possible, but I know of no grounds for claiming this.
+
+However, if cases with that structure are logically possible then there are some problems. Here are two that arise on the assmption that colors are reflectance types.
+
+First, in the paper we co-wrote, one important claim was that colors could be individuated in terms of color similarity relations. But that's not consistent with two perceivers seeing the same color and selecting different color similarity relations that obtain between it and other colors.
+
+Second, it seems to be a case where two perceivers see the same color and yet their perceptions differ in phenomenal character.
+
+Neither consequence I find palatable.
+
+The relationalist has a response. If colors are relational qualities partly determined by an object's reflectance type these problems do not arise. Selected color similarities will pick out distinct perceiver relative qualities so there is no objection to the individuation thesis; and since the perceivers are seeing distinct relational qualities, there is no obstacle to their manifest nature explaining the distinct phenomenal qualities of the respective experiences. (The relationalist, in effect, reduces the latter type of case to the former type.)
+
+But I abhore relationalism.
+
+That's partly why I was experimentally leaving it open that colors might be light affecting qualities of material objects realized by if not identified with a disjunction of determinate reflectances. Just leaving myself some wriggle room for metaphysical speculation.
+
+Let me comment on one thing you mention. 'Multiple constitution' sounds odd, to be sure, but multiple realization is familiar and intelligible and captures the intended idea I think. Notice that the causal problem you allude to might arise for the physicalist as well. It might seem that what does the causal work is the determinate reflectance instantiated by the perceived object and not the disjunctive property.
+
+But at any rate, I am not overly impressed with the temptation to suppose that all the causal work is being done by lower level properties. The causal explanation in terms of the determinable seem to be more informative. Red things look red because they are red. The determinate reflectance instantiated by a perceived red thing cannot underwrite that causal explanatory claim. A number of people make similar points---Puntam, Broackes, Yablo, even Campbell I think. But I am just beginning to think about chromatic causation.
+
+I would be very interested to see what you come up with about color blindness. Let me know if you make any progress.
+
+Thanks very much for writing back. Hope all is well in Chicago.
+
+All the best, Mark
+
