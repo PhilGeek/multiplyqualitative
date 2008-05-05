@@ -130,3 +130,104 @@ Vision.  (London: Henry Kimpton).
 
 Wyszecki, G., & Stiles, W.S. (1982). Color Science: Concepts and
 Methods, Quantitative Data and Formulae.  (New York: John Wiley & Sons).
+
+# Shoemaker Correspondence
+
+I have read through your paper “The Multiply Qualitative.”  It is a very rich and interesting paper.  But it is quite complex, and I didn’t fully understand everything in it.  Here are some comments.
+
+Since you ascribe to me the view that makes phenomenal characters of experiences representations of  “appearance properties,” I should point out that in my 2006 I abandon the account in terms of appearance properties in favor of one in terms of “aspects” of colors, the idea being that a case of spectrum inversion will be one in which the same color presents different aspects to perceivers of different kinds, and in which the aspect of a color presented to one sort of perceiver by one color can be the same as that presented by a different color to a different sort of perceiver.  That is a version of the view that, as you put it, “colors have multiple qualitative natures,” and on p. 30 you mention that I am (in my 2006) sympathetic with that view.  I’ll comment in a bit on your response to my criticism of the claim that this view can be reconciled with the inheritance thesis.
+
+But first let me say that I was left unclear where you come down on the issue of spectrum inversion.  You seem to accept the view that colors have multiple qualitative characters, and you describe how this might be used to explain the possibility of spectrum inversion.  But unless I missed something, you never argue that such an explanation has to fail.  That is, unless I missed something you allow that spectrum inversion, so understood, is possible.  You seem content to argue that the view that colors have multiple qualitative characters is compatible with the inheritance thesis.
+
+With regard to that, and  your response to my argument quoted on pp. 30-31, I agree that in actual cases the proximate effects of a color on different kinds of perceptual systems are not the same.  You rightly anticipate my response, namely that all I need to claim is that there are possible cases where the proximate effects are the same.  But I didn’t understand your response to this, on p. 33.   I don’t understand how the distinction between clearly conceiving and distinctly conceiving (which in any case I have a dim understanding of) is supposed to apply here.  If we can conceive of a pair of mechanisms that respond differently to the light coming from objects with a given color, surely we can conceive of these mechanisms receiving their input from a mechanism that doesn’t respond differently (like a lens, or a system of mirrors).  
+
+Turning to what I take to be a central claim of the paper, I didn’t understand how the “partiality” of perception, as described (e.g.) by Broackes, is suppose to give the qualitative character of color experience positive epistemological significance only on views, like standard representationalism, that accept the inheritance thesis, and not on the view that color experience is “merely a causal intermediary,” and not on the appearance property view.   Proponents of the latter views can hold that, for a given sort of perceiver, a given color is associated with a cluster of qualitative characters, or a cluster of appearance properties, such that different members of the cluster are produced, or manifested, under different conditions – and that for a person to know what color he is perceiving he must have some idea of what members of these clusters would be produced by the objects under the different conditions.  It is just that the association of the colors with such clusters is contingent, and that the clusters associated with a color will be different for perceivers with different sorts of perceptual system.  I take it that on the view you favor the association with the clusters is necessary.  What is unclear to me is why this makes a difference with respect to positive epistemological significance.  (And if we broaden the partiality of perception to encompass the view that colors have multiple qualitative characters in a way that allows for spectrum inversion or shifted spectra, surely it could not make a difference).  I thought that the appeal on p. 7 to the possibility of philosophical zombies was a red herring.  A sensible view of qualia will deny that possibility.  
+
+I was unmoved by your response to Chalmers’ argument from arbitrariness on p. 18ff.  I haven’t read Byrne and Hilbert 2006, but the argument that seems implicit in the quote from them seems bad.  How can it matter whether the apple is red or green?  By hypothesis the apple looks red to Norm iff it looks red to Norma, despite the difference in the qualitative character of their experiences.  And the argument from arbitrariness won’t of course claim that neither is misperceiving if there is a relevant difference of the sort you describe (Norma’s color perception having – if I understand you – a nonstandard cause).   It seems to me that the motivation for the argument from arbitariness is similar to that for your claim on p. 22 that it is implausible to suppose that trichromats perceive the true colors of things while tetrachromats are subject to systematic color illusion.  
+
+On p. 14, near the bottom, you have a one sentence paragraph reading “What properties might these be?”  The reference of “these” is far from apparent, though one can figure it out.
+
+The last full para. on p. 23 seemed to me overcompressed and initially unclear.
+
+I found the discussion of representationalism on pp. 34-35 hard to take in.  When at the bottom you begin a paragraph by saying “Standard representationalism in contrast,” I wasn’t clear whether the contrast was with Fregean accounts of perceptual content in general, or only with nondescriptive Fregean accounts.   And I was puzzled by the question you pose in the middle of p. 35, where you have Norm perceiving an object to be red and Norma perceiving it to be green.  That is not the inverted spectrum scenario, where what color they represent the object as having is supposed to be the same.  And if we are going here with the multiple qualitative characters view, their experiences are representing different aspects of the color, and both can be right.  But I suspect that I am missing the point of this paragraph.  
+  
+Best,
+Sydney
+
+	From: 	  ss56@cornell.edu
+	Subject: 	Re: Thanks for the Comments
+	Date: 	1 November 2006 19:37:34 GMT
+	To: 	  m.kalderon@ucl.ac.uk
+
+Dear Mark,
+
+Thanks for your message.
+
+If I understand you, you think that we can have your (1)  two subjects whose perceptions are phenomenally inverted  but question whether we can have your (2)  that their perceptions would share the same content.  But suppose we have (1) in virtue of a single color presenting different aspects to our two subjects.  There will be a difference in the content of the experiences insofar as they represent different aspects of the color.  But there will also be sameness of content, insofar as they represent the same color.  That seems to me to give us (2) in the sense required for spectrum inversion.
+
+With regard to footnote 8 of “On the way…,” you express puzzlement about what phenomenal properties are if the case described there is possible.  You say that they “cannot merely be presentations of qualitative aspects.”  That assumes that different aspects have to be grounded in different causal features of the color.  But one needn’t hold this in order to hold that the qualitative aspects are powers of the colors  for one can hold that they are extrinsic (relational) powers.   A color’s having a certain qualitative aspect will consist in its being such as to produce experiences having a certain phenomenal property in observers of a certain sort.  That will be true even if the imagined case is not possible, and different qualitative aspects are grounded in different causal features of the colors, but it will also be true if the imagined case is possible. If you think of this as a definition of qualitative aspect in terms of phenomenal character (making the notion of phenomenal character prior), it seems incompatible with an account which defines phenomenal character in terms of the representing of qualitative aspects (making the notion of qualitative aspect prior).  But I reject both definiitions, favoring instead a “package deal” account which simultaneously defines phenomenal character and qualitative aspect in terms of their relations to one another and to other things, and gives priority to neither.   I should add that I am an internalist about phenomenal character.  That might seem to give priority to it, but I don’t think it does.   The full story would bring in the idea that the relations of phenomenal similarity and difference amongst experiences are functionally definable, that what it is to be a quale, or phenomenal property, is to be explained in terms of these relations, and that it is central to the functional account of these similarity and difference relations that the holding of these relations give rise to beliefs about similarities and differences in the world, and thus that the experiences they relate have representational content.
+
+That is probably too brief to be intelligible.  I can understand why you were puzzled.
+
+All the best,
+Sydney
+
+
+At 01:27 AM 10/31/2006 +0000, you wrote:
+Dear Sydney,
+
+Sorry to take so long to thank you for your comments, they were very
+useful. The paper is too long, and I have decided to split it in two.
+
+I was puzzled by one thing though. (This isn't really a request for
+you to respond further---more of a brain dump.) You wrote:
+
+But first let me say that I was left unclear where you come down on
+the issue of spectrum inversion.  You seem to accept the view that
+colors have multiple qualitative characters, and you describe how
+this might be used to explain the possibility of spectrum
+inversion.  But unless I missed something, you never argue that
+such an explanation has to fail.  That is, unless I missed
+something you allow that spectrum inversion, so understood, is
+possible.  You seem content to argue that the view that colors have
+multiple qualitative characters is compatible with the inheritance
+thesis.
+
+Maybe I am dim, or maybe there is a substantive issue between us
+(perhaps a combination of both), but I don't understand this. First a
+clarification. I don't like talk of spectrum inversion simpliciter
+since, as Dave and I emphasized in our paper, there are really two
+thoughts here that require separate justifications:
+
+1. That there could be two subjects whose perceptions are
+phenomenally inverted
+2. That their perceptions would share the same content.
+
+Notice that talk of veridical perceptual variation, just by itself,
+doesn't get you spectrum inversion, so understood---perhaps the
+subjects are selectively perceiving different features of their
+environment in which case the difference in phenomenology would go
+with a difference in content. (That's the thought I was trying to
+vindicate.) And in the case of colors with multiply qualitative
+characters, if two subjects perceiving the same color differ in
+phenomenology because different qualitative aspects of the color are
+presented to each, there is a difference in content and so the second
+condition for spectrum inversion fails.
+
+On a related issue, I am also a bit puzzled about footnote eight of
+*On the Ways Things Appear*. I understand the point about the
+Pickwickian sense of inheritance, but that left me puzzled about two
+things. First, I was unsure how you were thinking about phenomenal
+properties---they can't merely be presentations of qualitative
+aspects (as they would be in the non-Pickwickian sense of
+inheritance), so what are they? Second, unless you are thinking of
+colors as Lockean secondary qualities, I was unsure how the
+qualitative character of the colors could both be powers to produce
+certain phenomenal experiences in perceivers and be intrinsic and
+essential properties of the colors.
+
+Thanks again for the extensive comments. That was very kind of you.
+
+Hope you are well.
+
+All the best, Mark
