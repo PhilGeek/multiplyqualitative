@@ -1,5 +1,4 @@
 %!TEX TS-program = xelatex 
-%!TEX TS-options = -shell-escape -output-driver="xdvipdfmx -q -E"
 %!TEX encoding = UTF-8 Unicode
 \documentclass[12pt]{article} 
 
@@ -8,68 +7,21 @@
 \newcommand\myauthor{Mark Eli Kalderon} 
 \newcommand\mytitle{The Multiply Qualitative}
 
-% Packages
-\usepackage{geometry} \geometry{a4paper} 
-\usepackage{pdfsync} 
-\usepackage{url} 
-\usepackage{txfonts}
-\usepackage{color}
-\definecolor{gray}{rgb}{0.459,0.438,0.471}
-\usepackage{epigraph}
-
-% XeTeX
-\usepackage[cm-default]{fontspec}
-\usepackage{xltxtra,xunicode}
-\defaultfontfeatures{Scale=MatchLowercase,Mapping=tex-text}
-\setmainfont{Hoefler Text}
-\setsansfont{Gill Sans}
-\setmonofont{Inconsolata}
-
-% Bibliography
-\usepackage[round]{natbib}
-
-% Version Control Information
-\immediate\write18{sh ./vc}
-\input{vc}
-
-% Section formatting
-\usepackage[]{titlesec} 
-\titleformat{\section}[hang]{\fontsize{14}{14}\scshape}{\S\,{\thesection}}{.5em}{}{}
-
-% Headers
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\pagenumbering{arabic}
-\lhead{\thepage}
-\chead{}
-\rhead{\itshape{\nouppercase{\leftmark}}}
-\lfoot{\tiny{Revision: \VCRevision}}
-\cfoot{\tiny{Author: \VCAuthor}}
-\rfoot{\tiny{Date: \VCDateISO}}
-
-% Title Information
-\title{\mytitle\thanks{Thanks to Keith Allen, David R. Hilbert, Carrie Jenkins, Guy Longworth, MGF Martin, Daniel Nolan, Sydney Shoemaker, Maja Spener, Scott Sturgeon, and Charles Travis for their help and encouragement. Thanks also to audiences at Birkbeck College and the University of Nottingham where a version of this material was presented.}} 
-
-\author{\myauthor}
-% \date{}
-
-% PDF Stuff
-\usepackage[plainpages=false, pdfpagelabels, bookmarksnumbered, backref, pdftitle={\mytitle}, pagebackref, pdfauthor={\myauthor}, pdfkeywords={\mykeywords}, xetex, dvipdfmx, colorlinks=true, citecolor=gray, linkcolor=gray, urlcolor=gray]{hyperref} 
+\input{preamble/preamble}
 
 %%% BEGIN DOCUMENT
 \begin{document}
+    
+    % Title Information
+    \title{\mytitle\thanks{Thanks to Keith Allen, David R. Hilbert, Carrie Jenkins, Guy Longworth, MGF Martin, Daniel Nolan, Sydney Shoemaker, Maja Spener, Scott Sturgeon, and Charles Travis for their help and encouragement. Thanks also to audiences at Birkbeck College and the University of Nottingham where a version of this material was presented.}}
 
 \maketitle
 
 \begin{abstract}
-	Shoemaker argues that one could not hold both that the qualitative character of color experience is inherited from the qualitative character of the experienced color \emph{and} that there are faultless forms of variation in color perception. In this paper, I explain what is meant by inheritance and discuss in detail the problematic cases of perceptual variation. In so doing I argue that these claims are in fact consistent, and that the appearance to the contrary is due to an optional and controversial conception of experience that should be rejected.
+	\noindent Shoemaker argues that one could not hold both that the qualitative character of color experience is inherited from the qualitative character of the experienced color \emph{and} that there are faultless forms of variation in color perception. In this paper, I explain what is meant by inheritance and discuss in detail the problematic cases of perceptual variation. In so doing I argue that these claims are in fact consistent, and that the appearance to the contrary is due to an optional and controversial conception of experience that should be rejected.
 \end{abstract}
 
-
-%	\tableofcontents
 \setlength{\parindent}{1em}
-
-% \vskip 2em \hrule height 0.4pt \vskip 2em
 
 \epigraph{God is day and night, winter and summer, war and peace, surfeit and hunger; but he takes various shapes, just as fire, when it is mingled with spices, is named according to the savor of each.}{\textsc{Heraclitus}}
 
