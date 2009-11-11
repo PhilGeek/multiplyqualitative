@@ -10,73 +10,29 @@ Notes to be taken account of in rewriting "The Multiply Qualitative"
 
 # MIND review
 
-Dear Dr Kalderon
+Many thanks for this paper which builds on the argument of your previous one. I’m very happy to accept it in principle for publication, but, in addition to the typos there are a few points where further clarification of your argument would help (see comments below). I’m also attaching the comments from the referees, though I don’t agree with the suggestion of referee 2 that you should omit all the Shoemaker quotations. Indeed I’m not bothered by the Kalderon vs. Shoemaker format of much of the paper, though it would be better if you emphasised at the start that this is primarily an expository strategy you are adopting to facilitate the presentation and defence of your core position, the inheritance thesis as revised to take account of the ‘multiple aspect’ account of the qualitative character of colours (pp. 35-6). Indeed it would be no bad thing to spell this out a bit more explicitly at the of the paper, so that it is clear how you are revising the position set up for discussion in section 2.
 
-'The Multiply Qualitative'
-
-I am pleased to say that this paper has been conditionally accepted for publication.
-
-Please acknowledge receipt of this email.
-
-Full acceptance is conditional on addressing the concerns listed below (in the Editor's notes and the two appended referee's reports).
-
-You may wish to take this opportunity to put the paper into Mind style.  Please see the attached notes for contributors.  Please do take care to follow Mind style guidelines, particularly with respect to referencing and bibliography, as errors in these areas are time-consuming to correct and may result in a delay to publication.
-
-As and when the paper is fully accepted we will require *both* (a) a Word, RTF, or LaTeX version of the final version of the paper, and (b) a PDF or hard-copy version to confirm formatting and special characters (PDF preferred).
-
-Copyright and offprints forms will be forwarded on full acceptance.
-
-Please don't hesitate to contact me if you have any queries.
-
-Yours sincerely,
-Barry Lee
-Editorial Administrator
-Mind
-mind@york.ac.uk
-
-
-Editor's Note:
-
-Dear Mark (no point in pretending anonymity in this case)
-
-
-           Many thanks for this paper which builds on the argument of your previous one. I’m very happy to accept it in principle for publication, but, in addition to the typos there are a few points where further clarification of your argument would help (see comments below). I’m also attaching the comments from the referees, though I don’t agree with the suggestion of referee 2 that you should omit all the Shoemaker quotations. Indeed I’m not bothered by the Kalderon vs. Shoemaker format of much of the paper, though it would be better if you emphasised at the start that this is primarily an expository strategy you are adopting to facilitate the presentation and defence of your core position, the inheritance thesis as revised to take account of the ‘multiple aspect’ account of the qualitative character of colours (pp. 35-6). Indeed it would be no bad thing to spell this out a bit more explicitly at the of the paper, so that it is clear how you are revising the position set up for discussion in section 2.
-
-
-Comments
-
+## Comments
 
 p. 3 Might it be worth briefly setting aside one obvious, but (I take it) irrelevant, counterexample to the thesis presented here? – The presence in experience of exactly similar objects (e.g. red billiard balls) generally does not bring with a difference in the phenomenal character of experience.
 
-
 pp. 3- 4. Perceptual presentation: as against Price you affirm that qualities of the material environment can be present in perceptual experience. Fine – but then I was surprised to find on pp. 30-2 you discuss a conception of phenomenal experience as a conscious modification of the subject in a way which suggests that this position is consistent with the position you take on p. 4. Maybe it is consistent, though the alternative you go on to affirm, in terms of a ‘perspective … on the chromatic features of the material environment’, looks to be just an application of the position affirmed on p. 4. The issue here, let me stress, is no objection to your position; it’s just a matter of clarity of exposition. It looks as though on pp. 30-1 you bring back into consideration a position which you rejected on pp. 3-4. There’s no reason at all why you should not do this; but it’s helpful to the reader if you clarify what’s going on.
-
 
 p. 5 How does the thesis on the top of this page accommodate after-images? Are they ‘objects … present in experience’? Maybe they are ; but it would be helpful to say a little more to show how this thesis accommodates these and similar familiar phenomena.
 
-
 p. 6 line 7 ‘covary’ ?
-
 
 p. 10 line 1 ‘For example, <it> is not …’?
 
-
 pp. 13-4 In your reconstruction of Shoemaker’s argument can you elucidate one or two of his key phrases: (i) ‘color quality space’ – is this what you call ‘colour property space’. I take it that this is intended, but it would be useful to make this explicit; (ii) ‘surface color realizers’ and ‘reflectances’ – are these what you call ‘colour experience’ and thus what is represented within what you call ‘colour experience space’? I’m not sure – but then I’m not quite sure how your discussion, with its distinction between colour property space and colour experience space fits onto Shoemaker’s argument.
 
-
-p. 15 lines 2-3 Instead of ‘a distinct color property space to’ can we have ‘a colour property space distinct from’?
-
-           line 7 Not ‘different for’ but ‘different from’
-
+p. 15 lines 2-3 Instead of ‘a distinct color property space to’ can we have ‘a colour property space distinct from’? line 7 Not ‘different for’ but ‘different from’
 
 p. 16 Section 5 The way you start this section, it is implicated that the passage you cite from Shoemaker might provide a way of defending the inheritance thesis. And this is indeed the suggestion that is in effect proposed on pp. 22 (top). But none of this is manifest on pp. 16-7, and at the moment the reader is puzzled: the relevance of the Shoemaker passage to the inheritance thesis isn’t obvious. So it would be good to help out the reader a bit here.
 
-
 p. 22 lines 6-5up I don’t have Shoemaker’s paper to hand but it reads very oddly. Instead of ‘so their experience of it … are’ shouldn’t it be ‘so that their experiences of it … are’?
 
-
 p. 23 line 4 Not ‘cause’ but ‘causes’ ?
-
 
 p. 26 bottom line: not ‘and’ but ‘an’
 
@@ -84,13 +40,7 @@ p. 26 bottom line: not ‘and’ but ‘an’
 
 Report from Referee 2:
 
-This is an interesting paper that contains some genuinely novel moves,
-and that will move the debate forward. However, I believe there are a
-number of problems with the paper that make it not quite ready for
-publication. So I think the right verdict is to reject with
-encouragement to resubmit. Below I list a number of points, of varying
-levels of importance, that I would encourage the author to consider in
-revising the paper.
+This is an interesting paper that contains some genuinely novel moves, and that will move the debate forward. However, I believe there are a number of problems with the paper that make it not quite ready for publication. So I think the right verdict is to reject with encouragement to resubmit. Below I list a number of points, of varying levels of importance, that I would encourage the author to consider in revising the paper.
 
 1. Somewhat oddly, the paper reads almost as a personal debate with
 Shoemaker; it progresses through a long series of back and forth moves
@@ -222,52 +172,31 @@ inheritance.
 
 -----------------------end referee report
 
-
 Report from Referee 3:
 
 The paper is a defense of a Hilbert and Kalderon’s “selectionist” account of color perception in response to objections by Shoemaker. It is argued that color experiences “inherit” their phenomenal character from the qualitative character of the perceived color, because colors are “multiply qualitative”: the same color has different qualitative aspects, that are perceptually available to different perceivers (and to the same perceiver in different situations). Presentations of the same color can therefore differ in their phenomenal character, and presentations of different colors can share their phenomenal character.
 
-
-
 The paper is clear, well argued and interesting. If I have a general concern about the paper, it is that the focus on Shoemaker’s objections to Hilbert and Kalderon’s selectionism might limit the paper’s general appeal (neither paper was published in Mind).
-
-
 
 pp. 3-7 It might help a more general reader if the notion of “inheritance” could be compared/contrasted with the more commonly discussed notion of “transparency”.
 
-
-
 pp. 7-11 It might also help if “selectionism” is compared/contrasted with relationalism at this point in the paper (It is discussed later, pp. 25-6).
-
-
 
 A specific thought about this section: it does not obviously follow from the claim that “Objects, qualities, and relations of the material environment can be present in a subject’s perceptual experience of that environment” (p. 4) that these qualities are mind-independent (as appears in the statement of the assumption immediately below on p. 4). By comparison, things in the material environment can appear funny, but being funny is not normally thought of as a mind-independent quality. This does not affect the main argument of the paper, but is relevant to the motivation of the view defended, as this kind of consideration might make a relational view of color seem more attractive from the outset.
 
-
-
 p. 17 It wasn’t clear what the problem was supposed to be with the view that subjects who differ in the spectral location of the unique hues see the same determinate shade as determinates of different determinables. A brief indication of the general shape of problem might be helpful.
-
-
 
 pp. 18-9 The author seems to suggest that cases of color blindness are not “veridical” cases of perceptual variation. The idea seems to be that it is possible for deuteranomolous perceivers to “come to see” eg. a green thing as green. As I understand it, this depends in part on the size of the stimulus (see the last line of the quotation from Broackes). When stimuli are indistinguishable for a color blind subject (eg. because they are smaller), why doesn’t the selectionist have to say that the color blind subject is selecting different qualitative aspects of the colors, in virtue of differences in their visual system? Can the selectionist really allow that this is a case of misperception (even if we grant that “deficient” might not be quite the right word to describe deuteranomolous subjects, as the author notes, p. 18)? The worry in the background is that the selectionist view threatens to over-generalize, and so might appear to be objectionable on independent grounds.
 
-
-
 pp. 19-20 The comparison with color constancy is a helpful way of making vivid the idea that colors might be multiply qualitative, but a potential difference is that our experience of colors under different lights is sometimes thought of as “two-dimensional”: we see both qualitative sameness and qualitative difference (e.g. Noë, Action in Perception). There is nothing comparable in the interpersonal case, so even if we accept the multiply qualitative character of color in the intrapersonal case, the extension of the idea might seem to require further justification. (After all, we don’t perceive colors to have qualitative characters that other subjects can see.)
 
-
-
 pp. 28-37 The underlying problem with Shoemaker’s objection is traced to what is described as an “optional conception of perceptual experience”, as a way of being affected. Instead, it is suggested that we should think of color experience as relational. This discussion is interesting, but I was unsure about a couple of points.
-
-
 
 1) I was not clear what Shoemaker’s distinction between intrinsic and extrinsic causal powers was, or precisely what role it played in Shoemaker’s argument. Shoemaker mentions as an example of an extrinsic power Boyle’s example of a key’s power to open a door. But isn’t there a sense in which if any causal powers are external, all are? Eg. in the same sense that the key loses the power to open the door if the lock is changed, doesn’t the object lose the power to produce experiences in the dark?
 
 2) The author describes Shoemaker as believing that phenomenal experience is a way of being affected (p. 31). I wasn’t sure that this fits with the role of “appearance properties” in his account, which (if I understand it) are supposed to be represented in the content of experience—hence Shoemaker’s view is a version of representationalism, just with a non-standard view of the contents of experience.
 
 3) Following on from the last point, views of phenomenal experience as “a way of being affected” are associated with adverbialist and qualia theories. They are contrasted with relation theories, e.g. Campbell, Kalderon, Martin. Where do (standard) representationalist views fit into this? Are representational states also conscious modifications?
-
-
 
 A general worry with the overall line of argument in the paper is whether there will be any constraints on the number of qualitative aspects that colors can have. If colors have too many qualitative aspects, then the selectionist explanation of color experience may begin to sound trivial. We will just add an extra qualitative aspect for each hypothetical subject who selects the same color as part of a different property space. The author claims that cases in which two subjects select the same color to feature in distinct property spaces “are improbable, but seem at least logically possible given selectionism” (p. 12). But why is this only improbable?
 
