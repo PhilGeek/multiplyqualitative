@@ -14,27 +14,17 @@ Many thanks for this paper which builds on the argument of your previous one. I�
 
 ## Comments
 
-p. 3 Might it be worth briefly setting aside one obvious, but (I take it) irrelevant, counterexample to the thesis presented here? – The presence in experience of exactly similar objects (e.g. red billiard balls) generally does not bring with a difference in the phenomenal character of experience.
-
-pp. 3- 4. Perceptual presentation: as against Price you affirm that qualities of the material environment can be present in perceptual experience. Fine – but then I was surprised to find on pp. 30-2 you discuss a conception of phenomenal experience as a conscious modification of the subject in a way which suggests that this position is consistent with the position you take on p. 4. Maybe it is consistent, though the alternative you go on to affirm, in terms of a ‘perspective … on the chromatic features of the material environment’, looks to be just an application of the position affirmed on p. 4. The issue here, let me stress, is no objection to your position; it’s just a matter of clarity of exposition. It looks as though on pp. 30-1 you bring back into consideration a position which you rejected on pp. 3-4. There’s no reason at all why you should not do this; but it’s helpful to the reader if you clarify what’s going on.
-
-p. 5 How does the thesis on the top of this page accommodate after-images? Are they ‘objects … present in experience’? Maybe they are ; but it would be helpful to say a little more to show how this thesis accommodates these and similar familiar phenomena.
-
-p. 6 line 7 ‘covary’ ?
-
-p. 10 line 1 ‘For example, <it> is not …’?
-
-pp. 13-4 In your reconstruction of Shoemaker’s argument can you elucidate one or two of his key phrases: (i) ‘color quality space’ – is this what you call ‘colour property space’. I take it that this is intended, but it would be useful to make this explicit; (ii) ‘surface color realizers’ and ‘reflectances’ – are these what you call ‘colour experience’ and thus what is represented within what you call ‘colour experience space’? I’m not sure – but then I’m not quite sure how your discussion, with its distinction between colour property space and colour experience space fits onto Shoemaker’s argument.
-
-p. 15 lines 2-3 Instead of ‘a distinct color property space to’ can we have ‘a colour property space distinct from’? line 7 Not ‘different for’ but ‘different from’
-
-p. 16 Section 5 The way you start this section, it is implicated that the passage you cite from Shoemaker might provide a way of defending the inheritance thesis. And this is indeed the suggestion that is in effect proposed on pp. 22 (top). But none of this is manifest on pp. 16-7, and at the moment the reader is puzzled: the relevance of the Shoemaker passage to the inheritance thesis isn’t obvious. So it would be good to help out the reader a bit here.
-
-p. 22 lines 6-5up I don’t have Shoemaker’s paper to hand but it reads very oddly. Instead of ‘so their experience of it … are’ shouldn’t it be ‘so that their experiences of it … are’?
-
-p. 23 line 4 Not ‘cause’ but ‘causes’ ?
-
-p. 26 bottom line: not ‘and’ but ‘an’
+1. p. 3 Might it be worth briefly setting aside one obvious, but (I take it) irrelevant, counterexample to the thesis presented here? – The presence in experience of exactly similar objects (e.g. red billiard balls) generally does not bring with a difference in the phenomenal character of experience. IGNORE
+2. pp. 3- 4. Perceptual presentation: as against Price you affirm that qualities of the material environment can be present in perceptual experience. Fine – but then I was surprised to find on pp. 30-2 you discuss a conception of phenomenal experience as a conscious modification of the subject in a way which suggests that this position is consistent with the position you take on p. 4. Maybe it is consistent, though the alternative you go on to affirm, in terms of a ‘perspective … on the chromatic features of the material environment’, looks to be just an application of the position affirmed on p. 4. The issue here, let me stress, is no objection to your position; it’s just a matter of clarity of exposition. It looks as though on pp. 30-1 you bring back into consideration a position which you rejected on pp. 3-4. There’s no reason at all why you should not do this; but it’s helpful to the reader if you clarify what’s going on. IGNORE
+3. p. 5 How does the thesis on the top of this page accommodate after-images? Are they ‘objects … present in experience’? Maybe they are ; but it would be helpful to say a little more to show how this thesis accommodates these and similar familiar phenomena. IGNORE
+4. p. 6 line 7 ‘covary’ ? FIXED
+5. p. 10 line 1 ‘For example, <it> is not …’? FIXED
+6. pp. 13-4 In your reconstruction of Shoemaker’s argument can you elucidate one or two of his key phrases: (i) ‘color quality space’ – is this what you call ‘colour property space’. I take it that this is intended, but it would be useful to make this explicit; (ii) ‘surface color realizers’ and ‘reflectances’ – are these what you call ‘colour experience’ and thus what is represented within what you call ‘colour experience space’? I’m not sure – but then I’m not quite sure how your discussion, with its distinction between colour property space and colour experience space fits onto Shoemaker’s argument. FIXED
+7. p. 15 lines 2-3 Instead of ‘a distinct color property space to’ can we have ‘a colour property space distinct from’? line 7 Not ‘different for’ but ‘different from’
+8. p. 16 Section 5 The way you start this section, it is implicated that the passage you cite from Shoemaker might provide a way of defending the inheritance thesis. And this is indeed the suggestion that is in effect proposed on pp. 22 (top). But none of this is manifest on pp. 16-7, and at the moment the reader is puzzled: the relevance of the Shoemaker passage to the inheritance thesis isn’t obvious. So it would be good to help out the reader a bit here. FIXED
+9. p. 22 lines 6-5up I don’t have Shoemaker’s paper to hand but it reads very oddly. Instead of ‘so their experience of it … are’ shouldn’t it be ‘so that their experiences of it … are’?
+10 p. 23 line 4 Not ‘cause’ but ‘causes’ ? FIXED
+11. p. 26 bottom line: not ‘and’ but ‘an’ FIXED
 
 *** *** ***
 
@@ -53,8 +43,7 @@ with Shoemaker. (Here's one suggestion toward this end. In many of the
 stages of the exchange the author gives long quotations of Shoemaker's
 arguments, and then goes on and reformulates those arguments in his or
 her own words. Since the arguments are being reformulated anyway, why
-not just drop many or all of the quotations?)
-
+not just drop many or all of the quotations?) FIXED
 2. In pp5-7 the author insists that inheritance entails not only
 interworld covariation of experience's phenomenal properties and
 something present in experience, but that the former holds "because
@@ -72,8 +61,7 @@ clear why given what he has said is needed for inheritance. Most
 importantly, though the author can stipulate anything he or she wants,
 readers need to see motivation for building in the extra requirement
 (which is not now present in the paper) since it forms the core of the
-author's response to Shoemaker in section 7.
-
+author's response to Shoemaker in section 7. FIXED
 3.  On p19: "Color constancy is the capacity of color to appear to
 persist, unaltered, through changes in its appearance across a broad
 range of scenes and conditions of illumination."
@@ -82,8 +70,7 @@ through changes in its appearance. Why wouldn't a hypothesized change
 in its appearance -- even granting, concessively to the author, that
 this is understood as a manifestation of a novel qualitative aspect of
 the nature of the one color --- constitute a respect in which the one
-color would appear to be altered?
-
+color would appear to be altered? IGNORE
 4. Author develops the Shoemaker worry in section 6 in a way that boils
 down to the question whether qualitative experiences in Norm and Norma
 can be different despite identity of proximate causal effects of c on
@@ -93,7 +80,6 @@ Physical Relation: An Empirical Argument Against Externalist
 Intentionalism," Nous 400(2): 205-240, 2006. It would be worth
 mentioning that paper as part of a more general effort to generalize
 the discussion past the particular concerns of Shoemaker.
-
 5. Although this is not his main response to the problem raised in
 section 6, the author initially makes the move of claiming that in
 actual cases of qualitative difference, there is a difference in
@@ -114,8 +100,7 @@ similarity), it appears to be entirely possible (and in fact plausibly
 actual) for there to be an interpersonal difference in qualitative
 experience despite identity of proximate patterns of retinal effects
 of the stimulus (given any acceptable, ie not vacuously narrow,
-individuation of such patterns).
-
+individuation of such patterns). FIXED
 6. The author's main response to the problematic cases (which I take
 to be the most important and novel contribution of the paper), though,
 comes out in section 7. There the idea is that we should think of the
@@ -135,8 +120,7 @@ can see the author needs to install his or her own preferred choice of
 c's causal effects as that identical to c's qualitative nature in
 order to make this solution work, but I don't see any good argument
 for this choice, which (of course) depends on a highly controversial
-way of thinking about perceptual experience.
-
+way of thinking about perceptual experience. IGNORE
 7. I am bothered by a version of the worry addressed on the bottom of
 p35 through p36 -- the worry to the effect that we are only getting an
 etiolated version of chromatic inheritance that is not worth
@@ -155,8 +139,7 @@ conditions. Consequently there's an explanatory gap left between the
 qualitative nature of c on the one hand and Norm's qualitative
 experience of c on the other. In view of this explanatory gap it can
 seem a substantial stretch to say that inheritance has been saved qua
-specifically explanatory thesis.
-
+specifically explanatory thesis. IGNORE
 8. Connected with the last point, it might be useful to compare the
 resulting picture with the views of Brad Thompson (centrally "Senses
 for Senses", but perhaps some of his other papers as well, and maybe
